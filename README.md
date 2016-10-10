@@ -5,4 +5,4 @@ Description:
 I have developed this web based application by collecting the data from the website: http://www.bls.gov/data/ and by using HTML, CSS, JavaScript and D3.js.
 
 You can access to my web based application by following the below GITHUB link:
-https://github.com/gkiran315/Visualization_proj
+https://gkiran315.github.io/Visualization_proj/Visuals_Project1.html
