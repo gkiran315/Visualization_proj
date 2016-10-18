@@ -2,7 +2,7 @@
 
 Click on the below video links for overview :
 
-![homepage](https://cloud.githubusercontent.com/assets/21704087/19462170/4f70ac0c-94b0-11e6-8ca6-c49b8bed22ec.JPG)(https://github.com/gkiran315/Visualization_proj/blob/master/TimeSeriesVisualization_Video.mp4)
+(![homepage](https://cloud.githubusercontent.com/assets/21704087/19462170/4f70ac0c-94b0-11e6-8ca6-c49b8bed22ec.JPG)(https://github.com/gkiran315/Visualization_proj/blob/master/TimeSeriesVisualization_Video.mp4))
 
 or
 
