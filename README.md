@@ -40,5 +40,5 @@ You can select/deselect **_multiple states_** by clicking on the map
 ![tooltip](https://cloud.githubusercontent.com/assets/21704087/19462103/cd536dd6-94af-11e6-91a1-57a6d7a4c21e.JPG)
 
 
-**####You can access to my web based application by following the below GITHUB link:**
+##**You can access to my web based application by following the below GITHUB link:**
 https://gkiran315.github.io/Visualization_proj/Visuals_Project1.html
