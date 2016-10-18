@@ -14,7 +14,7 @@ I have developed this web based application by collecting the data from the webs
 
 Some of the project functionalities :
 
-Selecting All States
+You can select All States by clicking on 'Select All States' button
 
 ![allstates](https://cloud.githubusercontent.com/assets/21704087/19462038/58f3fffa-94af-11e6-810f-ad926eb9fc22.JPG)
 
@@ -24,7 +24,7 @@ Use of slider to fly across the range
 ![slider](https://cloud.githubusercontent.com/assets/21704087/19462049/731302b4-94af-11e6-852b-71a33a09d045.JPG)
 
 
-You can get the National Unemployment rate by clicking on the National Unemployment Rate button
+You can get the National Unemployment rate by clicking on the #'National Unemployment Rate'# button and it is represented in black color in the time serires
 
 ![nationalunemprate](https://cloud.githubusercontent.com/assets/21704087/19462069/8dc90b76-94af-11e6-80b7-1fcbaa7781b5.JPG)
 
@@ -39,5 +39,5 @@ Tooltip functionality is exhibited when you mouse over on the time series
 ![tooltip](https://cloud.githubusercontent.com/assets/21704087/19462103/cd536dd6-94af-11e6-91a1-57a6d7a4c21e.JPG)
 
 
-You can access to my web based application by following the below GITHUB link:
+#You can access to my web based application by following the below GITHUB link:
 https://gkiran315.github.io/Visualization_proj/Visuals_Project1.html
